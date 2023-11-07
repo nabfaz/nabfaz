@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nabfaz
-- 👀 I’m interested in coding life.
-- 🌱 I’m currently learning full-stack developer 
+- 👋 Hi, I’m Fazil Ahmed.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning full-stack development.
+- 🗨️ We can connect through linkedIn
 
 
 <!---
